@@ -11,7 +11,7 @@ Just to modularize some aspect of the software built with Arduino I developed th
 | [IdStorage](#idstorage) | Compact set of ids |
 | [SList](#slist) | A templated simple linked list |
 | [RamData](#ramdata) | A container of bytes, but can be used for strings too, that allocate and deallocate memory dynamically with some useful functions such as string comparision, word splitting, etc |
-| [BufWrite/Read](#bufwrite_read) | Read/Write uint16 and uint32 from and to a bytes buffer using MSB order |
+| [BufWrite/Read](#bufwriteread) | Read/Write uint16 and uint32 from and to a bytes buffer using MSB order |
 
 > For a technical documentation of the API please refer to the documentation contained inside the source code header files accessible through the IDE intellisense.
 
